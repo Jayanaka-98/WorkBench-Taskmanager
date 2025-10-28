@@ -25,9 +25,6 @@ DOMAINS = [calendar, email, analytics, project_management, customer_relationship
 AVAILABLE_LLMS = [
     "gpt-4",
     "gpt-3.5",
-    "claude-2",
-    "llama2-70b",
-    "mistral-8x7B",
 ]
 
 
